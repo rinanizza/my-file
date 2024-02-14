@@ -1,0 +1,32 @@
+        a {
+            text-decoration: none;
+            color: black;
+            padding: 1em;
+        }
+        
+        .nav,
+        ul {
+            display: flex;
+            flex-direction: left;
+            justify-content: flex-end;
+            list-style: none;
+        }
+        
+        img {
+            position: right;
+            margin: right;
+        }
+        
+        h2 {
+            color: mediumvioletred
+        }
+        
+        body {
+            background-color: black;
+            color: white;
+            font-size: 20px;
+        }
+        
+        aside {
+            font-size: 15px;
+        }
